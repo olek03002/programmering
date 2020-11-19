@@ -1,0 +1,7 @@
+C:\Users\oekbr\source\repos\uppgift\uppgift\bin\Debug\uppgift.exe.config
+C:\Users\oekbr\source\repos\uppgift\uppgift\bin\Debug\uppgift.exe
+C:\Users\oekbr\source\repos\uppgift\uppgift\bin\Debug\uppgift.pdb
+C:\Users\oekbr\source\repos\uppgift\uppgift\obj\Debug\uppgift.csprojAssemblyReference.cache
+C:\Users\oekbr\source\repos\uppgift\uppgift\obj\Debug\uppgift.csproj.CoreCompileInputs.cache
+C:\Users\oekbr\source\repos\uppgift\uppgift\obj\Debug\uppgift.exe
+C:\Users\oekbr\source\repos\uppgift\uppgift\obj\Debug\uppgift.pdb
